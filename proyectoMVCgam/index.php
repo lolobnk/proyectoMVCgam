@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo 'Antonio mamona';
+        echo 'Gabri mamona';
         ?>
     </body>
 </html>
