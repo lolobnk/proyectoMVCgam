@@ -2,12 +2,13 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Alumnos</title>
     </head>
     <body>
         <?php
-            require_once("modelo/db.php");
-            require_once("controlador/clase_controler.php");
+            foreach ($datos as $dato) {
+                echo $dato["nombre"] . "<br/>";
+            }
         ?>
     </body>
 </html>
