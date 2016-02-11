@@ -6,8 +6,8 @@
     </head>
     <body>
         <?php
-            require_once("modelo/db.php");
-            require_once("controlador/clase_controler.php");
+            require("modelo/db.php");
+            require("controlador/clase_controler.php");
         ?>
     </body>
 </html>
