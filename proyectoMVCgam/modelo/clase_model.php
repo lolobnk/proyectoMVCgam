@@ -17,12 +17,15 @@ class clase_model {
 
     // Metodos
     public function get_alumnos() {
+        
         // Creamos la sentencia
-        $consulta = $this->db->query("SELECT * FROM Alumnos;");
+        $consulta = mysqli_query($this->db, "SELECT * FROM Alumnos");
+        
         // Rellenamos el array
-        while ($filas = $consulta->fetch_assoc()) {
+        while ($filas = mysqli_fetch_assoc($consulta)) {
             $this->resultado[] = $filas;
         }
+        
         // Devuelve el array
         return $this->resultado;
     }
