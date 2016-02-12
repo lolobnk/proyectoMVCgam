@@ -19,7 +19,7 @@ class clase_model {
     public function get_alumnos() {
         
         // Creamos la sentencia
-        $consulta = mysqli_query($this->db, "SELECT * FROM Alumnos");
+        $consulta = mysqli_query($this->db, "SELECT * FROM Alumnos;");
         
         // Rellenamos el array
         while ($filas = mysqli_fetch_assoc($consulta)) {
