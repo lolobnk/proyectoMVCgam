@@ -1,0 +1,16 @@
+- Para este ejercicio hemos decidido crear un proyecto nuevo diferenciando  y configurando cada parte del
+modelo vista controlador.
+
+- En la parte del modelo, hemos creado un archivo específico para la conexión a la base de datos, el cual
+incluimos en el index con un require. Tambien contiene otro archivo (clase_model.php), que contiene los 
+variables y métodos que usarán en el proyecto.
+
+- En la parte del controlador, inicializamos los objetos y los rellenamos con los datos de clase_model.php, 
+y finalmente llamamos a la vista.
+
+- En la parte de la vista, mostramos los datos recogidos anteriormente.
+
+- Cada miembro del grupo ha trabajado descargando el proyecto desde github (enlazado a netbeans), subiendo
+los cambios tras la realización del ejercicio.
+
+- La ruta al ejercicio subido a Hostinger es: http://gabramsua.esy.es/proyectoMVCgam/proyectoMVCgam/
