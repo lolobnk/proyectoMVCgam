@@ -1,0 +1,10 @@
+En el método conexion de la Clase Conectar en el archivo db.php, en el paquete del modelo, 
+es necesario modificar las variables con las que nos conectamos a la base de datos de mysql.
+Aquí se deberá modificar el servidor donde estemos instalando, el nombre de usuario y la contraseña.
+El último valor de los atributos, es el nombre de la Base de Datos, ese no deberá ser modificado o 
+la base de datos no funcionará correctamente.
+
+$conexion = new mysqli("localhost", "usuario", " contraseña", "Clase");
+
+Será necesario ejecutar primero el archivo Script.sql para luego poder arrancar la aplicación
+ de nuestro php.

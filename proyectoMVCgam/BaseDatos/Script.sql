@@ -36,7 +36,7 @@ INSERT INTO Alumnos VALUES
 ('33333333C', 'Gabriel', 'Ramos Suan', 26);
 
 INSERT INTO Asignaturas VALUES 
-('Cliente', 'Lenguaje del entorno del Cliente', 'Juan Antonio Calvo'),
+('Cliente', 'Lenguaje del entorno del Cliente', 'Juan Antonio '),
 ('Aplicaciones', 'Aplicaciones de PHP','Jesus Isidoro Costas');
 INSERT INTO Alumno_Asignatura VALUES ('11111111A', 'Cliente'),
 ('22222222B', 'Cliente'),('22222222B', 'Aplicaciones'),('33333333C', 'Cliente');
