@@ -1,4 +1,21 @@
 
 	INCIDENCIAS DEL PROYECTO DE GABRIEL, MANUEL Y ANTONIO
 	
-	- 
+	- En cuanto a GitHub hemos tenido varias incidencias al principio
+        del proyecto, ya que daba problemas para enlazarlo con cada uno de
+        los programas IDE como Netbeans. Buscando estos fallos por internet
+        hemos dado con las soluciones y viendo estas soluciones hemos aprendido
+        más cosas a parte de como enlazarlo con estos programas.
+
+        - En cuanto al modelo, vista y controlador (MVC) hemos tenido algunos
+        problemas con los require_once de PHP, y hemos solucionado sustituyendo
+        estas funciones por require, otras de las funciones integradas en PHP.
+        Y alguna que otra dificultad al principio del proyecto para lograr ver
+        cada una de las partes que componen el proyecto.
+        Estas últimas dificultades la hemos solucionado viendo algunos videos
+        de cómo separar una aplicación en partes como para realizarla con el
+        modelo, vista y controlador (MVC).
+        Luego hemos dado a cada uno una función con respecto al proyecto y
+        hemos visto con más facilidad la función de cada una de las partes.
+
+        - 

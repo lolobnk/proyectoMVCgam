@@ -8,13 +8,17 @@
 		   encontrado dificultades con problemas técnicos de GitHub
 		   en lugar de haberlos encontrado en el modelo, vista y controlador (MVC).
 
-	- MANUEL: En cuanto al proyecto sobre el GitHub me parece muy bueno,
-		  ya que como indica mi compañero Gabriel se aprende mucho
-		  trabajando en grupo y se distinguen mejor las funciones
-		  de cada uno en cuanto al modelo, vista y controlador (MVC).
-		  Y bueno en cuanto a GitHub me parece que es mucho más que
-		  un servicio de alojamiento de código. Además de esto,
-		  ofrecen varias pequeñas herramientas en línea muy útiles
-		  para el trabajo en equipo.
+	- MANUEL:  En cuanto al proyecto sobre el GitHub me parece muy bueno,
+		   ya que como indica mi compañero Gabriel se aprende mucho
+		   trabajando en grupo y se distinguen mejor las funciones
+		   de cada uno en cuanto al modelo, vista y controlador (MVC).
+		   Y bueno en cuanto a GitHub me parece que es mucho más que
+		   un servicio de alojamiento de código. Además de esto,
+		   ofrecen varias pequeñas herramientas en línea muy útiles
+		   para el trabajo en equipo.
 
-	- ANTONIO: 
+	- ANTONIO: Su valoración es positiva porque ayuda a comprender a través
+                   de esta herramienta (GitHub) las partes en las que se divide
+                   el modelo, vista y controlador (MVC).
+                   Y personalmente con este proyecto ha asentado lo aprendido
+                   en clase.
