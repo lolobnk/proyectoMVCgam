@@ -17,5 +17,3 @@
         modelo, vista y controlador (MVC).
         Luego hemos dado a cada uno una función con respecto al proyecto y
         hemos visto con más facilidad la función de cada una de las partes.
-
-        - 
